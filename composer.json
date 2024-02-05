@@ -1,0 +1,15 @@
+{
+    "name": "cursophp/poo",
+    "autoload": {
+        "psr-4": {
+            "Cursophp\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "quinterolina",
+            "email": "quinterolina@unbosque.edu.co"
+        }
+    ],
+    "require": {}
+}
